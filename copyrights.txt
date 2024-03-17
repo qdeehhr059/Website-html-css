@@ -1,0 +1,49 @@
+this project mAded by Portex
+حقوق المنشي و اتفاقية المستخدم و تعليمات للمشروع
+= 
+
+1- you cant copy and pay and rename this project for your oun
+2- you can change simple things like css 
+3- you cant change anything at  the html code 
+4- dont upload it to your oun account at github or gitlab
+5-you must ask the ministor befor do any thing at php files or servers
+ot security 
+
+[4:24]
+[html version="5"]
+#$#$######$$#################################
+metadata "agree_languages":-
+  <meta charset="UTF-8">
+  <meta charset="BIG5">
+  <meta charset="EUC-KR">
+  <meta charset="EUC-JP">
+  <meta charset="EUC-TW">
+  <meta charset="GB18030">
+  <meta charset="IBM855">
+  <meta charset="IBM866">
+  <meta charset="ISO-2022-JP">
+  <meta charset="ISO-2022-CN">
+  <meta charset="ar">
+  <meta charset="ISO-2022-KR">
+  <meta charset="ISO-8859-5">
+  <meta charset="ISO-8859-7">
+  <meta charset="ISO-8859-8">
+  <meta charset="KOL8-R">
+  <meta charset="MACCYRILLIC">
+  <meta charset="SHIFT-JIS">
+  <meta charset="TIS620">
+  <meta charset="US-ASCII">
+  <meta charset="UTF-16BE">
+  <meta charset="UTF-16LE">
+  <meta charset="UTF-32BE">
+  <meta charset="UTF-32LE">
+  <meta charset="WINDOWS-1250">
+  <meta charset="WINDOWS-1251">
+  <meta charset="WINDOWS-1252">
+  <meta charset="WINDOWS-1253">
+  <meta charset="WINDOWS-1254">
+  <meta charset="WINDOWS-1255">
+  <meta charset="WINDOWS-1257">
+  <meta charset="WINDOWS-1258">
+  <meta charset="en">
+#############################################

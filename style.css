@@ -1,0 +1,124 @@
+/*here start css code*/
+/*here start h1 element class*/
+/*note again this class just for h1 elements*/
+/* if h1 class didn't work change the class footer class or delete h1 */
+/* note you can add style to h1 element with out add class*/
+.Portex{
+  
+  text-align: center;
+  border: 1px solid red;
+  background-color:red;
+  color:white;
+  border:blue 1px solid;
+  
+}
+/*here end h1 element class*/
+
+
+/*here start button 1 class*/
+/* note this buttons are in aside tag 1 to 3*/
+.button_1{
+  height: 190px;
+  width: 120px;
+  font-style: italic;
+  background-color: black;
+  color:white;
+}
+/*here end button 1class*/
+
+/*here start button 2 class*/
+.button2{
+  height: 190px;
+  width:120px;
+  font-style: italic;
+  background-color:black;
+  color:white;
+}
+/*here end button 2 class*/
+
+/*here start button3 class*/
+.button3{
+  height: 190px;
+  width:120px;
+  font-style: italic;
+  background-color:black;
+  color:white;
+  
+}
+/*here start aside class*/
+.aside{
+  margin-top: 50%;
+  
+  
+}
+/*here end aside class*/
+
+/*here start span1 */
+.span1{
+ /* padding-left:10px;*/
+  border:solid 1px red;
+  background-color:blue;
+  color:white;
+}
+/*here end span1 */
+/*here start span2 */
+.span2{
+  padding-left: 10px;
+  border:solid 1px red;
+  background-color:blue;
+  color:white;
+}
+/*here end span2 */
+/*here start span3 */
+.span3{
+  padding-left: 10px;
+  border:solid 1px red;
+  background-color:blue;
+  color: white;
+}
+/*here end span3*/
+/*here start span4 */
+.span4{
+  padding-left: 10px;
+  border:solid 1px red;
+  background-color:blue;
+  color: white;
+}
+/*here end span4 */
+/*here start span5*/
+.span5{
+  padding-left:10px;
+  border:solid 1px red;
+  background-color:blue;
+  color:white;
+  
+}
+/*here end span5 */
+/*here start  nav1 class */
+/*note nav1 is mum class for all this span classes if you add style here you change for all span classes*/
+/*here start nav1 class*/
+.nav1{
+  text-align: center;
+  font-style: italic;
+  font-size: 19px;
+  color:white;
+}
+/*here end nav1 class */
+/*here you can add background image*/
+/*body{
+  background-image:url("cool-wallpapers-icegif-1.gif");
+}*/
+
+/*here start footer class*/
+.footer{
+  color:white;
+  font-style: italic;
+  margin-top:60%;
+  text-align: center;
+  border:solid 2px red;
+  background-color:blue;
+}
+/*here end footer class*/
+body{
+  background-image: url('cool-wallpapers-icegif-1.gif');
+}

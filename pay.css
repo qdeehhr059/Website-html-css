@@ -1,0 +1,65 @@
+/*here started css code*/
+/* here start first class nav*/
+.mumy_nav{
+  
+}
+/*here end first class nav*/
+/*here start h1_first class*/
+.h1_first{
+  text-align: center;
+  color: blue;
+  font-style: italic;
+  font:bold;
+  background-color:white;
+  padding-bottom: 10%;
+  padding-top:10%;
+  text-align: center;
+}
+/*here end h1_first class*/
+/*here start class Pimary_Button_RF*/
+.Pimary_Button_RF{
+height: 300px;
+  width: 200px;
+  font-style: italic;
+  color:blue;
+  font:bold;
+  text-align: left;
+  margin-left:10%;
+  background-image: url("IMG_٢٠٢٤٠٣١١_٠٨١٩١٩.jpg")
+}
+
+/*here end class Pimary_Button_RF*/
+/*here start sdr class*/
+.sdr{
+   height:300px;
+   width: 189px;
+   font-style: italic;
+   margin-right:-20%;
+   
+   
+   
+   
+}
+/*here end sdr class*/
+.one{
+  margin-top:50%;
+  margin-right:-1%;
+  margin-left:-10%;
+  
+  
+}
+
+.header{
+  border: 1px solid green;
+  background: yellow;
+}
+body{
+  background-color:blue;
+}
+.footer{
+  font-size: 16px;
+  text-align: center;
+  background-color: white;
+  margin-top: 20%;
+}
+/*here end css code*/

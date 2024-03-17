@@ -1,0 +1,36 @@
+.StartLesson{
+    color:white;
+    border:solid 5px red;
+    background-color:red;
+}
+
+.kali_LINUX{
+    color:white
+}
+.ubuntu{
+   color:white
+}
+.signtitle{
+  color:white
+}
+.signtos_description{
+    color:white
+}
+.linuxV{
+  color:white;
+}
+
+.lastDl{
+  color: white;
+}
+.Next-Page{
+  width: 100%;
+  height: 50px;
+  margin-top:59px;
+}
+body{
+  background-image: url("image.jpeg");
+  background-repeat: repeat;
+  width:100%;
+  height: 100%;
+}

@@ -1,0 +1,51 @@
+.mouther_div{
+  height: 100px;
+  width: 100px;
+  /*background-color: red;*/
+  display: flex;
+  margin:25%;
+  
+  
+}
+.secound_table{
+  margin-left:20px;
+}
+.fot1{
+  
+}
+.button-1{
+  width:90%;
+  margin-left:20px;
+}
+.foottext{
+ padding-top:60%;
+  text-align: center;
+  /*border:solid solid 1px red ;
+  background-color:red;*/
+  
+}
+.start_webpage{
+  text-align: center;
+  font-style: italic;
+  border:red 1px solid;
+  background-color:red;
+  color:white;
+}
+.mouther_div_1{
+ background-color: white;
+}
+body{
+  background-color: blue;
+  background-image:url("image.jpeg");
+}
+ 
+table{
+  background-color: white;
+}
+.spanyol{
+  border: solid 1px red;
+  background-color: red;
+  color:white;
+  padding:9px;
+ 
+}

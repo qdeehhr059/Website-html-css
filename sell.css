@@ -1,0 +1,84 @@
+.Enter_your_name_lable{
+  margin-left:30%;
+}
+
+
+.text{
+  margin-left:29%;
+  margin-bottom:10px;
+}
+.em_lable{
+  
+  margin-left:29%;
+  margin-top: 10px;
+  text-align: center;
+}
+.email{
+  
+  margin-left: 29%;
+  margin-top: 10px;
+  
+}
+.zelphone_number_lable{
+  margin-left: 29%;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.phone_number{
+  margin-left: 29%;
+  margin-top: 10px;
+  
+}
+.Mouther_Form{
+  margin-top: 40%;
+}
+.mumy_header{
+  text-align: center;
+  background-color:#000000 ;
+  color:white;
+  border:1px solid #B75858EB;
+  
+}
+
+  
+}
+.Footer{
+  margin-top:10%;
+  font: bolder;
+}
+.term1{
+  font-size: 6.5px;
+  margin-left: -20px;
+  
+  
+}
+.terms{
+  font-size: 9px;
+  margin-top:1px;
+  
+}
+body{
+  background-color:#578AE8;
+}
+.media{
+  margin-top: 10px;
+}
+.foot{
+  border:1px solid white;
+  background-color: white;
+  margin-top:20%;
+  padding:16%;
+}
+.signup{
+  margin-left: 30%;
+  width:120%;
+  margin-left:-10%;
+  margin-top: 20px;
+  
+}
+.home{
+  width:120%;
+  margin-left: -11%;
+  margin-top: 10px;
+}
